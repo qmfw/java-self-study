@@ -17,7 +17,7 @@ class Calculator {
     }
 }
  
-public class Main {
+public class Exam31 {
  
     public static void main(String[] args) {
  
