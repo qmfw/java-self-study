@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Exam02 {
     
@@ -14,6 +15,7 @@ public class Exam02 {
         
         System.out.println();
         System.out.println(Arrays.toString(a));
+        
     }
  
 }
