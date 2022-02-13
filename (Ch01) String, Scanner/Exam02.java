@@ -11,6 +11,9 @@ public class Exam02 {
         String[] a = new String[n];
         for (int i=0; i<n; i++) a[i] = sc.nextLine();
         for (int i=0; i<n; i++) System.out.print(a[i]+" ");
+        
+        System.out.println();
+        System.out.println(Arrays.toString(a));
     }
  
 }
